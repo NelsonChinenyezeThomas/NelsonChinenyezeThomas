@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nelson Chinenyeze Thomas and you are welcome to my page.
-- 👀 I’m interested in Data Analytics, Data Science, Data Engineering, AI and Machine Learning.
+- 👀 About myself, I’m interested in Data Analytics, Data Science, Data Engineering, AI and Machine Learning.
 - 🌱 I’m currently learning data analytics tools like Python, Powerbi, SQL etc, which i am now conversant with. 
 - 💞️ I’m looking to collaborate on data analytics project, connect with like minded people and organizations that need my services.
 - 📫 You can kindly reach me on [Linkedin](https://www.linkedin.com/in/nelson-c-thomas-bi-analyst/)
