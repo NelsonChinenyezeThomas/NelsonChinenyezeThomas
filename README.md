@@ -10,7 +10,7 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 - 🤝 I’m looking to collaborate on data analytics project, connect with like minded people and organizations that need my services.
 - 📫 You can kindly reach me on [Linkedin](https://www.linkedin.com/in/nelson-c-thomas-bi-analyst/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love reading science fiction, watching anime, connecting with nature and adventures.
+- ⚡ Fun fact: I love reading science fiction, watching anime, going for adventures and connecting with nature.
 
 
 
