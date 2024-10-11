@@ -5,7 +5,7 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 ---------------------------------
 
 - 👋 You are welcome to my page 😄 
-- 👤 About myself, I studied Statistics in the university and I’m interested in Data Science, Data Engineering, AI and Machine Learning.
+- 👤 About myself, I studied Statistics in the university and have a strong interest in Data Science, Data Engineering, AI and Machine Learning.
 - 🧠 I’m currently learning data analytics tools like Python, Powerbi, SQL etc, which I am now conversant with. 
 - 🤝 I’m looking to collaborate on data analytics projects, connect with like minded people and organizations that need my services.
 - 📫 You can kindly reach me on [Linkedin](https://www.linkedin.com/in/nelson-c-thomas-bi-analyst/)
